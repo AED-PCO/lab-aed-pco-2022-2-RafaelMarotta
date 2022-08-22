@@ -1,0 +1,16 @@
+C:\Users\1275605\source\repos\AED_EX_6\AED_EX_6\bin\Debug\AED_EX_6.exe.config
+C:\Users\1275605\source\repos\AED_EX_6\AED_EX_6\bin\Debug\AED_EX_6.exe
+C:\Users\1275605\source\repos\AED_EX_6\AED_EX_6\bin\Debug\AED_EX_6.pdb
+C:\Users\1275605\source\repos\AED_EX_6\AED_EX_6\obj\Debug\AED_EX_6.csproj.AssemblyReference.cache
+C:\Users\1275605\source\repos\AED_EX_6\AED_EX_6\obj\Debug\AED_EX_6.csproj.SuggestedBindingRedirects.cache
+C:\Users\1275605\source\repos\AED_EX_6\AED_EX_6\obj\Debug\AED_EX_6.csproj.CoreCompileInputs.cache
+C:\Users\1275605\source\repos\AED_EX_6\AED_EX_6\obj\Debug\AED_EX_6.exe
+C:\Users\1275605\source\repos\AED_EX_6\AED_EX_6\obj\Debug\AED_EX_6.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Introdução\AED_EX_6\AED_EX_6\obj\Debug\AED_EX_6.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Introdução\AED_EX_6\AED_EX_6\obj\Debug\AED_EX_6.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Introdução\AED_EX_6\AED_EX_6\obj\Debug\AED_EX_6.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Introdução\AED_EX_6\AED_EX_6\obj\Debug\AED_EX_6.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Introdução\AED_EX_6\AED_EX_6\obj\Debug\AED_EX_6.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Introdução\AED_EX_6\AED_EX_6\bin\Debug\AED_EX_6.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Introdução\AED_EX_6\AED_EX_6\bin\Debug\AED_EX_6.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Introdução\AED_EX_6\AED_EX_6\bin\Debug\AED_EX_6.pdb

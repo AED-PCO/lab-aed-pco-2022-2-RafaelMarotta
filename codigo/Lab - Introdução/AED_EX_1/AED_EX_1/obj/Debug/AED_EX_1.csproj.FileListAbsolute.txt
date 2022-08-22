@@ -1,0 +1,8 @@
+C:\Users\1275605\source\repos\AED_EX_1\AED_EX_1\obj\Debug\AED_EX_1.csproj.AssemblyReference.cache
+C:\Users\1275605\source\repos\AED_EX_1\AED_EX_1\obj\Debug\AED_EX_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\1275605\source\repos\AED_EX_1\AED_EX_1\obj\Debug\AED_EX_1.csproj.CoreCompileInputs.cache
+C:\Users\1275605\source\repos\AED_EX_1\AED_EX_1\bin\Debug\AED_EX_1.exe.config
+C:\Users\1275605\source\repos\AED_EX_1\AED_EX_1\bin\Debug\AED_EX_1.exe
+C:\Users\1275605\source\repos\AED_EX_1\AED_EX_1\bin\Debug\AED_EX_1.pdb
+C:\Users\1275605\source\repos\AED_EX_1\AED_EX_1\obj\Debug\AED_EX_1.exe
+C:\Users\1275605\source\repos\AED_EX_1\AED_EX_1\obj\Debug\AED_EX_1.pdb

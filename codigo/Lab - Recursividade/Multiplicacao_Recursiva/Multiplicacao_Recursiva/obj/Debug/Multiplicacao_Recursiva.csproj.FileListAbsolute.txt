@@ -1,0 +1,8 @@
+C:\Users\1275605\source\repos\Multiplicacao_Recursiva\Multiplicacao_Recursiva\obj\Debug\Multiplicacao_Recursiva.csproj.AssemblyReference.cache
+C:\Users\1275605\source\repos\Multiplicacao_Recursiva\Multiplicacao_Recursiva\obj\Debug\Multiplicacao_Recursiva.csproj.SuggestedBindingRedirects.cache
+C:\Users\1275605\source\repos\Multiplicacao_Recursiva\Multiplicacao_Recursiva\obj\Debug\Multiplicacao_Recursiva.csproj.CoreCompileInputs.cache
+C:\Users\1275605\source\repos\Multiplicacao_Recursiva\Multiplicacao_Recursiva\bin\Debug\Multiplicacao_Recursiva.exe.config
+C:\Users\1275605\source\repos\Multiplicacao_Recursiva\Multiplicacao_Recursiva\bin\Debug\Multiplicacao_Recursiva.exe
+C:\Users\1275605\source\repos\Multiplicacao_Recursiva\Multiplicacao_Recursiva\bin\Debug\Multiplicacao_Recursiva.pdb
+C:\Users\1275605\source\repos\Multiplicacao_Recursiva\Multiplicacao_Recursiva\obj\Debug\Multiplicacao_Recursiva.exe
+C:\Users\1275605\source\repos\Multiplicacao_Recursiva\Multiplicacao_Recursiva\obj\Debug\Multiplicacao_Recursiva.pdb
