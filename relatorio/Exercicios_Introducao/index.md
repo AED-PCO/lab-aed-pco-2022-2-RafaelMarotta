@@ -15,7 +15,7 @@ O Quadrado de 55 é igual a 3025.
  
 Faça um programa que mostre os números de 1000 a 9999 que possuem essa característica.
 
-![Exercício 1](/Exercicios_Introducao/EX_1.PNG)
+![Exercício 1](/relatorio/Exercicios_Introducao/EX_1.PNG)
 
 ## Exercício 2
 
