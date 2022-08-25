@@ -30,7 +30,7 @@ Um Número é dito Perfeito se a soma de seus divisores menores que ele é igual
 exemplo, o número 6 possui os  divisores 1, 2 e 3, cuja soma é igual a 6.
 Faça um programa que liste os números perfeitos de 1 a 1000.
 
-![Exercício 2](/Exercicios_Introducao/EX_2.PNG)
+![Exercício 2](/relatorio/Exercicios_Introducao/EX_2.PNG)
 
 ## Exercício 3
 
@@ -41,9 +41,9 @@ Considere que nenhum dos vetores possui elementos repetidos.
 Crie um vetor resultante C que possua os elementos comuns entre A e B.
 Crie um vetor resultante D que contenha os elementos de A que não existam em B.
 
-![Exercício 3](/Exercicios_Introducao/EX_3_1.PNG)
-![Exercício 3](/Exercicios_Introducao/EX_3_2.PNG)
-![Exercício 3](/Exercicios_Introducao/EX_3_3.PNG)
+![Exercício 3](/relatorio/Exercicios_Introducao/EX_3_1.PNG)
+![Exercício 3](/relatorio/Exercicios_Introducao/EX_3_2.PNG)
+![Exercício 3](/relatorio/Exercicios_Introducao/EX_3_3.PNG)
 
 ## Exercício 4
 
@@ -52,10 +52,10 @@ Crie um vetor resultante D que contenha os elementos de A que não existam em B.
 Faça um programa que receba os elementos de uma matriz de 5 linhas por 3 colunas. 
 Mostre a soma dos elementos de cada uma das linhas e das colunas da matriz.
 
-![Exercício 4](/Exercicios_Introducao/EX_4_1.PNG)
-![Exercício 4](/Exercicios_Introducao/EX_4_2.PNG)
-![Exercício 4](/Exercicios_Introducao/EX_4_3.PNG)
-![Exercício 4](/Exercicios_Introducao/EX_4_4.PNG)
+![Exercício 4](/relatorio/Exercicios_Introducao/EX_4_1.PNG)
+![Exercício 4](/relatorio/Exercicios_Introducao/EX_4_2.PNG)
+![Exercício 4](/relatorio/Exercicios_Introducao/EX_4_3.PNG)
+![Exercício 4](/relatorio/Exercicios_Introducao/EX_4_4.PNG)
 
 ## Exercício 5
 
@@ -63,7 +63,7 @@ Mostre a soma dos elementos de cada uma das linhas e das colunas da matriz.
 
 Faça um programa que chame uma função capaz de calcular o Fatorial de um número inteiro.
 
-![Exercício 5](/Exercicios_Introducao/EX_5.PNG)
+![Exercício 5](/relatorio/Exercicios_Introducao/EX_5.PNG)
 
 ## Exercício 6
 
@@ -71,4 +71,4 @@ Faça um programa que chame uma função capaz de calcular o Fatorial de um núm
 Faça um programa que chame uma função capaz de calcular x elevado a y, sendo x e y inteiros.
 Utilize passagem de parâmetros por referência.
 
-![Exercício 6s](/Exercicios_Introducao/EX_6.PNG)
+![Exercício 6s](/relatorio/Exercicios_Introducao/EX_6.PNG)
