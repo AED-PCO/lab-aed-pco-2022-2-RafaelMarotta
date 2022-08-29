@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Multiplicacao_Recursiva
 {
@@ -10,7 +6,12 @@ namespace Multiplicacao_Recursiva
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Multiply(3,4).ToString());
+            Console.WriteLine("Informe um número:");
+            int x = int.Parse(Console.ReadLine());
+            Console.WriteLine("Informe outro número:");
+            int y = int.Parse(Console.ReadLine());
+            string output = string.Format("O número {0} x {1} = {2}", x, y, Multiply(x, y));
+            Console.WriteLine(output);
             Console.ReadKey();
         }
 

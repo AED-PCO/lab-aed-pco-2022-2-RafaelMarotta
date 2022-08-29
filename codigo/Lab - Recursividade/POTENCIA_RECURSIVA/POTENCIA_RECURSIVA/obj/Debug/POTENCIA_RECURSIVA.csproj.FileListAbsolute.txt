@@ -1,0 +1,8 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\POTENCIA_RECURSIVA\POTENCIA_RECURSIVA\bin\Debug\POTENCIA_RECURSIVA.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\POTENCIA_RECURSIVA\POTENCIA_RECURSIVA\bin\Debug\POTENCIA_RECURSIVA.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\POTENCIA_RECURSIVA\POTENCIA_RECURSIVA\bin\Debug\POTENCIA_RECURSIVA.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\POTENCIA_RECURSIVA\POTENCIA_RECURSIVA\obj\Debug\POTENCIA_RECURSIVA.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\POTENCIA_RECURSIVA\POTENCIA_RECURSIVA\obj\Debug\POTENCIA_RECURSIVA.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\POTENCIA_RECURSIVA\POTENCIA_RECURSIVA\obj\Debug\POTENCIA_RECURSIVA.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\POTENCIA_RECURSIVA\POTENCIA_RECURSIVA\obj\Debug\POTENCIA_RECURSIVA.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\POTENCIA_RECURSIVA\POTENCIA_RECURSIVA\obj\Debug\POTENCIA_RECURSIVA.pdb

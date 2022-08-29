@@ -1,0 +1,8 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\CONTA_LETRA\CONTA_LETRA\bin\Debug\CONTA_LETRA.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\CONTA_LETRA\CONTA_LETRA\bin\Debug\CONTA_LETRA.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\CONTA_LETRA\CONTA_LETRA\bin\Debug\CONTA_LETRA.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\CONTA_LETRA\CONTA_LETRA\obj\Debug\CONTA_LETRA.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\CONTA_LETRA\CONTA_LETRA\obj\Debug\CONTA_LETRA.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\CONTA_LETRA\CONTA_LETRA\obj\Debug\CONTA_LETRA.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\CONTA_LETRA\CONTA_LETRA\obj\Debug\CONTA_LETRA.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab - Recursividade\CONTA_LETRA\CONTA_LETRA\obj\Debug\CONTA_LETRA.pdb
