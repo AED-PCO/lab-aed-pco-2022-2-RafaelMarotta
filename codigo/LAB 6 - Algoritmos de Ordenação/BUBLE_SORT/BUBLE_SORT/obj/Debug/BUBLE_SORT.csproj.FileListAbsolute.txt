@@ -1,0 +1,8 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\LAB 6 - Algoritmos de Ordenação\BUBLE_SORT\BUBLE_SORT\bin\Debug\BUBLE_SORT.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\LAB 6 - Algoritmos de Ordenação\BUBLE_SORT\BUBLE_SORT\bin\Debug\BUBLE_SORT.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\LAB 6 - Algoritmos de Ordenação\BUBLE_SORT\BUBLE_SORT\bin\Debug\BUBLE_SORT.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\LAB 6 - Algoritmos de Ordenação\BUBLE_SORT\BUBLE_SORT\obj\Debug\BUBLE_SORT.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\LAB 6 - Algoritmos de Ordenação\BUBLE_SORT\BUBLE_SORT\obj\Debug\BUBLE_SORT.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\LAB 6 - Algoritmos de Ordenação\BUBLE_SORT\BUBLE_SORT\obj\Debug\BUBLE_SORT.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\LAB 6 - Algoritmos de Ordenação\BUBLE_SORT\BUBLE_SORT\obj\Debug\BUBLE_SORT.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\LAB 6 - Algoritmos de Ordenação\BUBLE_SORT\BUBLE_SORT\obj\Debug\BUBLE_SORT.pdb

@@ -1,0 +1,8 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
