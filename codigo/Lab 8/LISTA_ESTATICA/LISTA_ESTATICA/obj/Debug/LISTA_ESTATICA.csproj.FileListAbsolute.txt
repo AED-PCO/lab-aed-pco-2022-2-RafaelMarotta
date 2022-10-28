@@ -1,0 +1,8 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 8\LISTA_ESTATICA\LISTA_ESTATICA\bin\Debug\LISTA_ESTATICA.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 8\LISTA_ESTATICA\LISTA_ESTATICA\bin\Debug\LISTA_ESTATICA.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 8\LISTA_ESTATICA\LISTA_ESTATICA\bin\Debug\LISTA_ESTATICA.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 8\LISTA_ESTATICA\LISTA_ESTATICA\obj\Debug\LISTA_ESTATICA.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 8\LISTA_ESTATICA\LISTA_ESTATICA\obj\Debug\LISTA_ESTATICA.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 8\LISTA_ESTATICA\LISTA_ESTATICA\obj\Debug\LISTA_ESTATICA.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 8\LISTA_ESTATICA\LISTA_ESTATICA\obj\Debug\LISTA_ESTATICA.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 8\LISTA_ESTATICA\LISTA_ESTATICA\obj\Debug\LISTA_ESTATICA.pdb
