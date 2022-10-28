@@ -8,23 +8,23 @@ namespace LISTA_ESTATICA
         {
             Console.WriteLine("Informe o tamanho da lista:");
             int size = int.Parse(Console.ReadLine());
-            ListaEstatica<string> list = new ListaEstatica<string>(size);
+            ListaEstatica<string> list = new ListaEstatica<string>(size+1);
 
-            while (!list.IsFull())
+            for(int i = 0; i < size;i++)
             {
                 list.Add(Console.ReadLine());
             }
 
+            list.Add("FORCED", 1);
+
             Console.WriteLine("List on desc:");
 
-            //Get list elements on desc
-            for (int i = size - 1; i >= 0; i--)
+            for(int i = 0; i < size+1; i++)
             {
-                Console.WriteLine(list.Get(i));
+                Console.WriteLine(list.Pull(0));
             }
 
             Console.ReadKey();
-
         }
     }
 }

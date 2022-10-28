@@ -22,30 +22,60 @@ namespace LISTA_ESTATICA
             aux++;
         }
 
-        public E Get(int pos)
+        public void Add(E obj, int pos)
+        {
+            if (IsFull())
+            {
+                throw new Exception("The list is full");
+            }
+
+            if (IsPosOverflow(pos))
+            {
+                throw new Exception("The position does not exists");
+            }
+
+            ShiftRight(pos);
+            array[pos] = obj;
+            aux++;
+        }
+
+        public E Pull(int pos)
         {
             if (IsEmpty())
             {
                 throw new Exception("The list is Empty");
             }
 
-            if (pos > array.Length - 1)
+            if (IsPosOverflow(pos))
             {
-                throw new Exception("The position does not exists");
+                throw new Exception("The position does not exists");                
             }
 
             E val = array[pos];
-            Shift(pos);
+            ShiftLeft(pos);
+            aux--;
             return val;
         }
 
-        public void Shift(int pos)
+        private bool IsPosOverflow(int pos)
+        {
+            return pos > array.Length - 1;
+        }
+
+        public void ShiftLeft(int pos)
         {
             for (int i = pos; i < array.Length - 1; i++)
             {
                 array[i] = array[i + 1];
             }
-            aux--;
+        }
+
+        public void ShiftRight(int pos)
+        {
+            for (int i = array.Length-1; i > pos; i--)
+            {
+                array[i] = array[i - 1];
+            }
         }
 
         public bool IsEmpty()
