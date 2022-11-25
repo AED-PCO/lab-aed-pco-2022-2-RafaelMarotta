@@ -1,0 +1,8 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\Calculadora Polonesa\Calculadora Polonesa\obj\Debug\Calculadora Polonesa.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\Calculadora Polonesa\Calculadora Polonesa\obj\Debug\Calculadora Polonesa.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\Calculadora Polonesa\Calculadora Polonesa\obj\Debug\Calculadora Polonesa.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\Calculadora Polonesa\Calculadora Polonesa\bin\Debug\Calculadora Polonesa.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\Calculadora Polonesa\Calculadora Polonesa\bin\Debug\Calculadora Polonesa.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\Calculadora Polonesa\Calculadora Polonesa\bin\Debug\Calculadora Polonesa.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\Calculadora Polonesa\Calculadora Polonesa\obj\Debug\Calculadora Polonesa.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\Calculadora Polonesa\Calculadora Polonesa\obj\Debug\Calculadora Polonesa.pdb

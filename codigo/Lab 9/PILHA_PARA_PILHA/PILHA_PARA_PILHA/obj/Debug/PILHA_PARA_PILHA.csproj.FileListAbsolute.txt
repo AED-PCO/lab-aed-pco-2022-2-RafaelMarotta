@@ -1,0 +1,8 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\PILHA_PARA_PILHA\PILHA_PARA_PILHA\bin\Debug\PILHA_PARA_PILHA.exe.config
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\PILHA_PARA_PILHA\PILHA_PARA_PILHA\bin\Debug\PILHA_PARA_PILHA.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\PILHA_PARA_PILHA\PILHA_PARA_PILHA\bin\Debug\PILHA_PARA_PILHA.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\PILHA_PARA_PILHA\PILHA_PARA_PILHA\obj\Debug\PILHA_PARA_PILHA.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\PILHA_PARA_PILHA\PILHA_PARA_PILHA\obj\Debug\PILHA_PARA_PILHA.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\PILHA_PARA_PILHA\PILHA_PARA_PILHA\obj\Debug\PILHA_PARA_PILHA.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\PILHA_PARA_PILHA\PILHA_PARA_PILHA\obj\Debug\PILHA_PARA_PILHA.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\lab-aed-pco-2022-2-RafaelMarotta\codigo\Lab 9\PILHA_PARA_PILHA\PILHA_PARA_PILHA\obj\Debug\PILHA_PARA_PILHA.pdb
